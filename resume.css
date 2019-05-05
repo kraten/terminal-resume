@@ -1,0 +1,15 @@
+#command{
+    width: 300px;
+    border: 0px;
+    background-color: black;
+    color: #CCC5B9;
+    outline-width: 0;
+}
+
+#about, #education, #projects, #experience, #skills, #contact, #connect, #error, #help, #download{
+    display:none;
+}
+
+#resume-container{
+    padding: 15px;
+}
