@@ -1,6 +1,6 @@
 # Terminal Resume 💻
 Terminal Resume is a very basic terminal emulator using HTML, CSS and JavaScript to display resume in terminal.<br>
-<b>Demo Link - <a href=https://kraten.github.io>https://kraten.github.io</a></b><br>
+<b>Demo Link - <a href="https://kraten.github.io" target="_blank">https://kraten.github.io</a></b><br>
 
 <img src="https://github.com/kraten/terminal-resume/blob/master/screen-record.gif?raw=true" width=100%>
 
@@ -11,4 +11,4 @@ Terminal Resume is a very basic terminal emulator using HTML, CSS and JavaScript
 - Clear console with <b>clear</b> command
 - Download resume with <b>download</b> command
 - Display error message on incorrect command
-- Scroll console with command output
+- Auto scroll down console with command output
